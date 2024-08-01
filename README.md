@@ -5,10 +5,11 @@ Perform Crud operation on Customer database with JWT authentication
 2. create a virtual env for downloading react files
    a. in vs code you can create a virtual env by downloading the Python environment manager extension
    b. also download the thunderClient extension for reliability or you can use Postman also
-6. open Mysql and use the "create database customer_db" command
-7. you can execute Java code without env also just press "F5" when your cursor is on any Java file in "src\main\java\com\MyCompany\Customer" this folder
-8. Your Java code should execute properly
-9. now test the MySQL connectivity using
+6. **open Mysql and use the command**
+7. ```create database customer_db```
+8. you can execute Java code without env also just press "F5" when your cursor is on any Java file in "src\main\java\com\MyCompany\Customer" this folder
+9. Your Java code should execute properly
+10. now test the MySQL connectivity using
     a.you can see icon of thunderclient on left side of vs code
     b.click on new Request
     c.first make Get to Post from the select button then put "localhost:1010/auth/register"
