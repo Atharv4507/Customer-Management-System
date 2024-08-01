@@ -6,8 +6,7 @@ Perform Crud operation on Customer database with JWT authentication
    a. in vs code you can create a virtual env by downloading the Python environment manager extension
    b. also download the thunderClient extension for reliability or you can use Postman also
 6. **open Mysql and use the command**
-7. ```bash
-8.    create database customer_db```
+7. ```bash create database customer_db```
 9. you can execute Java code without env also just press "F5" when your cursor is on any Java file in "src\main\java\com\MyCompany\Customer" this folder
 10. Your Java code should execute properly
 11. now test the MySQL connectivity using
