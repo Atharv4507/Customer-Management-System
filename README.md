@@ -18,11 +18,11 @@ Perform Crud operation on Customer database with JWT authentication
    **a.you can see the icon of thunder client on the left side of vs code**
    **b.click on the new Request**
    **c.First, make Get to Post from the select button then put**
-    ```bash
-    
+   
+ ```bash
     "localhost:1010/auth/register"
-    ```
-    **d.go in Body -> Json Content then paste this inbox**
+ ```
+ **d.go in Body -> Json Content then paste this inbox**
     ```bash
     
     {
@@ -45,7 +45,7 @@ Perform Crud operation on Customer database with JWT authentication
    ```
    just a small change made login except register. click send button
    g. you can see one token is generated in response copy that
-   h. **Now, make a POST to GET**
+   h. **GET**
    ```bash
    "localhost:1010/admin/get-all-customer"
    ```
