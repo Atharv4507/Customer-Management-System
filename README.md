@@ -5,7 +5,8 @@ Perform Crud operation on Customer database with JWT authentication
 2. create a virtual env for downloading react files
    a. in vs code you can create a virtual env by downloading the Python environment manager extension
    b. also download the thunderClient extension for reliability or you can use Postman also
-#MySQL Part
+   
+# MySQL Part
  **Open Mysql and use the command**
  ```bash
     create database customer_db
@@ -22,7 +23,8 @@ Perform Crud operation on Customer database with JWT authentication
     ```
     **d.go in Body -> Json Content then paste this inbox**
     ```bash
-    e.{
+    
+    {
         "email": "atharvmh2002@gmail.com",
         "city": "Pandharpur",
         "firstname": "atharv",
@@ -54,7 +56,7 @@ Perform Crud operation on Customer database with JWT authentication
 ```bash
 "npm i"
 ```
-14. The node_module folder will be created above the public folder
+The node_module folder will be created above the public folder
 
 **run react code using**
 ```bash
@@ -67,8 +69,8 @@ atharvmh2002@gmail.com
 ```bash
  admin
 ```
-18. you will see the profile when you click on login, refresh the page once, and then in nav you will see the Customer Manager where you can perform your crud operation
-19. if you are unable to see the record in the customer manager try to drop the database and create it again.
+you will see the profile when you click on login, refresh the page once, and then in nav you will see the Customer Manager where you can perform your crud operation
+if you are unable to see the record in the customer manager try to drop the database and create it again.
 Thank You!
 [Screenshot (13)](https://github.com/user-attachments/assets/7048a136-9dae-4506-8d17-9da07b851127)
 [Screenshot (12)](https://github.com/user-attachments/assets/1a79131c-fe72-462d-a926-fb347be5d3da)
