@@ -19,6 +19,7 @@ Perform Crud operation on Customer database with JWT authentication
    **b.click on the new Request**
    **c.First, make Get to Post from the select button then put**
     ```bash
+    
     "localhost:1010/auth/register"
     ```
     **d.go in Body -> Json Content then paste this inbox**
